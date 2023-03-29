@@ -34,7 +34,7 @@ Variable and static font files are also included for the required fonts for this
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-## Building your project
+## Whose project is this?
 
 Four main people are required to work on this assignment, but anyone can help out in anyway. 
 
