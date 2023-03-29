@@ -1,5 +1,6 @@
-# Results summary component at a glance
+# Results summary component
 
+## At a glance
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
