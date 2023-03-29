@@ -1,4 +1,4 @@
-# Results summary component
+# Results summary component at a glance
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
