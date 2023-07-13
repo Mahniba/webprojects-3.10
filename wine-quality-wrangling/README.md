@@ -39,29 +39,29 @@ To run the code in this repository, you need to have the following dependencies 
 1. Clone this repository to your local machine using the following command:
 
    
-   git clone https://github.com/your-username/wine-quality-dataset-wrangling.git
+   `https://github.com/Kanyelings/projects-3.10.git`
    
 
 2. Navigate to the project directory:
 
    
-   cd wine-quality-wrangling
+   `cd wine-quality-wrangling`
    
 
 3. Install the required dependencies using pip:
 
    
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
    
 
 ## Usage
 
 To use the code in this repository, follow these steps:
 
-1. Open the Jupyter Notebook file wine_quality_analysis.ipynb:
+1. Open the Jupyter Notebook file wine_quality_analysis.ipynb from your terminal:
 
    
-   jupyter notebook wine_quality_analysis.ipynb
+   `jupyter notebook wine_quality_analysis.ipynb`
    
 
 2. This notebook is empty and should be filled up by those assigned to the exercise. All instructions are included in the notebook.
