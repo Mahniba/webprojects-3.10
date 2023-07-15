@@ -1,2 +1,2 @@
-# webprojects-3.10
-A repository that contains different web projects by Year 1s.
+# projects-3.10
+A repository that contains different ds and ml projects.
